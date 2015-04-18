@@ -457,3 +457,7 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+#big-trophy {
+  font-size: 7em;
+}
